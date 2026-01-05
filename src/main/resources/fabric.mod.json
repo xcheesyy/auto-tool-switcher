@@ -3,13 +3,13 @@
 	"id": "auto-tool-switcher",
 	"version": "${version}",
 	"name": "Auto Tool Switcher",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a QOL mod which automatically switches to the required tool when trying to break a block.",
 	"authors": [
-		"Me!"
+		"xcheesyy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/xcheesyy/auto-tool-switcher"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/auto-tool-switcher/icon.png",
